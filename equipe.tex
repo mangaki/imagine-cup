@@ -1,0 +1,22 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%\documentclass[a5paper,landscape,12pt]{article}
+\documentclass[a4paper,12pt]{article}
+\usepackage[french]{babel}
+\usepackage{xltxtra}
+\usepackage{graphicx}
+\usepackage[urlcolor=magenta]{hyperref}
+\usepackage[margin=1cm]{geometry}
+\usepackage{wrapfig}
+
+\setromanfont{Iowan Old Style}
+
+% fix for pandoc 1.14
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+\pagestyle{empty}
+\input{content-equipe}
+\end{document}
