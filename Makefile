@@ -5,3 +5,5 @@ equipe:
 
 pres:
 	pandoc -t latex presentation-en.txt -o content-presentation.tex
+	xelatex presentation
+	open presentation.pdf
