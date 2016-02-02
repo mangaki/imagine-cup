@@ -45,5 +45,5 @@ Mangaki now counts 1,800 users, 14,000 works and 269,000 ratings.
 Advantages {-}
 ==========
 
-- the welcome adaptive testing, relying on cutting-edge algorithms from recent research ;
+- the welcome adaptive testing, relying on state-of-the-art algorithms from recent research ;
 - the core can be adapted to other databases (books, comics, video games, etc.)
