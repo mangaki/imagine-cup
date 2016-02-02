@@ -32,7 +32,7 @@ Ryan Lahfa, Treasurer {-}
 -------------
 
 \noindent
-Ryan Lahfa is passionate about open source projects based on Python and Web technologies such as React.js, the JavaScript library that currently supports Facebook. He holds some conferences at Python/React.js meetups in Paris.
+Ryan Lahfa is a passionate developer about open source projects based on Python and Web technologies such as React.js, the JavaScript library that currently powers Facebook. He held some talks at Python/React.js meetups in Paris.
 
 \begin{wrapfigure}{l}{3cm}
 \vspace{-8mm}
