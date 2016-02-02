@@ -8,7 +8,7 @@ Mangaki is a manga/anime recommendation website: \url{http://mangaki.fr}.
 
 #### Pitch
 
-Everyone regularly ask themselves what movie, series or book they should watch next, according to their tastes. Mangaki wants to innovate access to culture by providing a unique user experience.
+Everyone regularly ask themselves which movie, series or book they should watch next, according to their tastes. Mangaki wants to innovate access to culture by providing a unique user experience.
 
 Innovation: Adaptive Testing for Personalized Recommendations {-}
 =============================================================
