@@ -16,7 +16,7 @@ Innovation: Adaptive Testing for Personalized Recommendations {-}
 In a typical recommendation website, a user rates a few anime (*Favorite / Like / Dislike / Neutral / Want to see / Will not see*) and the system provides suggestions of new works they might like. But newcomers usually have to rate **a lot** of items before they get satisfying recommendations.\bigskip
 
 \noindent
-What distinguishes Mangaki from other recommender systems is a Tinder-like **adaptive test** for newcomers, asking the user « ***Did you like these works?*** ». Thus, Mangaki's algorithm automatically selects works that will bring the most information about the user's tastes. This makes it possible to provide relevant recommendations really fast.
+What distinguishes Mangaki from other recommender systems is a Tinder-like **adaptive test** for newcomers, asking the user « ***Did you like these works?*** ». This welcome test enables Mangaki's algorithm to automatically select works that will bring the most information about the user's tastes. This makes it possible to provide relevant recommendations faster.
 
 \begin{figure}[h]
 \centering\includegraphics[width=0.9\linewidth]{decks}
