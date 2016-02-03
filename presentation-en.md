@@ -8,7 +8,7 @@ Mangaki is a manga/anime recommendation website: \url{http://mangaki.fr}.
 
 #### Pitch
 
-Everyone regularly ask themselves which movie, series or book they should watch next, according to their tastes. Mangaki wants to innovate access to culture by providing a unique user experience.
+Everyone regularly ask themselves what movie, series or book they should watch next, according to their tastes. Mangaki wants to innovate access to culture by providing a unique user experience.
 
 Innovation: Adaptive Testing for Personalized Recommendations {-}
 =============================================================
@@ -38,12 +38,8 @@ Mangaki is written in Python and relies on the following open source technologie
 \noindent
 The code is entirely open source on \url{https://github.com/mangaki/mangaki}.
 
-#### Statistics
-
-Mangaki now counts 1,800 users, 14,000 works and 269,000 ratings.
-
-Advantages {-}
-==========
+Main assets {-}
+===========
 
 - the welcome adaptive testing, relying on state-of-the-art algorithms from recent research ;
 - the core can be adapted to other databases (books, comics, video games, etc.)

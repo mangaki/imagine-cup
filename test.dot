@@ -1,0 +1,14 @@
+digraph G {
+    "Death Note" -> "Attack on Titan" [label="Like"];
+    "Death Note" -> "Spirited Away" [label="Dislike"];
+    "Death Note" -> "Princess Mononoke" [label="Unknown"];
+    "Attack on Titan" -> "Bleach" [label="Like"];
+    "Attack on Titan" -> "Code Geass" [label="Dislike"];
+    "Attack on Titan" -> "Fullmetal Alchemist" [label="Unknown"];
+    "Spirited Away" -> "Naruto" [label="Like"];
+    "Spirited Away" -> "Fullmetal Alchemist: Brotherhood" [label="Dislike"];
+    "Spirited Away" -> "Sword Art Online" [label="Unknown"];
+    "Princess Mononoke" -> "My Neighbor Totoro" [label="Like"];
+    "Princess Mononoke" -> "No Game, No Life" [label="Dislike"];
+    "Princess Mononoke" -> "Fairy Tail" [label="Unknown"];
+}

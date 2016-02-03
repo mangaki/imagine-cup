@@ -1,4 +1,6 @@
+.DS_store
 *.aux
 *.log
 *.out
 *.pdf
+content-*.tex
